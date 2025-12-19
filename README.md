@@ -126,6 +126,8 @@ terraform-practice/
 
 ## 📦 Installation and Setup
 
+> 📚 **Bắt đầu từ đây?** Xem [BUILD_GUIDE.md](./BUILD_GUIDE.md) để có hướng dẫn chi tiết từng bước xây dựng project!
+
 ### Prerequisites
 
 **Required (cho Local Development):**
